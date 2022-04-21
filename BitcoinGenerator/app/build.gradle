@@ -34,6 +34,5 @@ android {
 }
 
 dependencies {
-	implements "app.compat.compat.viewcontroler"
-	implements ""
+	
 }
