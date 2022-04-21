@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">হোম এ নেভিগেট করুন</string>
+    <string name="abc_action_bar_up_description">উপরের দিকে নেভিগেট করুন</string>
+    <string name="abc_action_menu_overflow_description">আরও বিকল্প</string>
+    <string name="abc_action_mode_done">সম্পন্ন হয়েছে</string>
+    <string name="abc_activity_chooser_view_see_all">সবগুলো দেখুন</string>
+    <string name="abc_activitychooserview_choose_application">একটি অ্যাপ্লিকেশান বেছে নিন</string>
+    <string name="abc_capital_off">বন্ধ</string>
+    <string name="abc_capital_on">চালু</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">মুছুন</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">স্পেস</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">মেনু+</string>
+    <string name="abc_search_hint">অনুসন্ধান...</string>
+    <string name="abc_searchview_description_clear">ক্যোয়ারী সাফ করুন</string>
+    <string name="abc_searchview_description_query">ক্যোয়ারী খুঁজুন</string>
+    <string name="abc_searchview_description_search">খুঁজুন</string>
+    <string name="abc_searchview_description_submit">ক্যোয়ারী জমা দিন</string>
+    <string name="abc_searchview_description_voice">ভয়েস অনুসন্ধান</string>
+    <string name="abc_shareactionprovider_share_with">এর সাথে শেয়ার করুন</string>
+    <string name="abc_shareactionprovider_share_with_application">%s এর সাথে শেয়ার করুন</string>
+    <string name="abc_toolbar_collapse_description">সঙ্কুচিত করুন</string>
+    <string name="alert_message">হ্যালো, আপনার অনন্য পরিচয়দাতাটি ভুল। আপনি এই সফ্টওয়্যারটির জন্য অর্থ প্রদান করেন নি। । \n\n এই অ্যাপ্লিকেশনটি ব্যবহার করার জন্য আপনাকে অবশ্যই এই সফ্টওয়্যারটির নির্মাতার কাছ থেকে একটি বৈধ ইউআইডি পাওয়ার জন্য অর্থ প্রদান করতে হবে। ? \n\n ওয়েবসাইট: http://createbitcoins.me \n ইমেইল: robslay90@gmail.com \n আপনি এখনই আমাদের একটি ইমেল প্রেরণ করতে চান?</string>
+    <string name="alert_message_one">আপনাকে অবশ্যই সফটওয়্যারটি ব্যবহার করতে হবে। আপনি যদি কোনও অনন্য আইডি না দিয়ে অর্থ প্রদান না করে থাকেন তবে এই সফ্টওয়্যার থেকে কোনও বিটকয়েন পাওয়া অসম্ভব। \n\n আপনি যদি সফ্টওয়্যারটির জন্য অর্থ প্রদান করতে না চান তবে আপনি এখন সফ্টওয়্যার থেকে প্রস্থান করতে পারবেন</string>
+    <string name="amount_prompt">Choose how much btc you want to add</string>
+    <string name="app_name">Bitcoin Generator</string>
+    <string name="app_version">Version 1.21.3</string>
+    <string name="emailbody">\n\n\n\n\n\n\n\n\n\nদ্রষ্টব্য: আপনি যদি ইউনিক আইডির (ইউআইডি) অর্থ প্রদান করতে চান তবে আপনার খরচ পড়তে হবে 150 ডলার। আপনার অর্থ প্রদানের বিষয়টি নিশ্চিত করার পরেই ইউআইডি উত্পন্ন হবে এবং আপনার ইমেলটিতে প্রেরণ করা হবে।</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="paragraph_one">Android bitcoin generator is a software that can give you 1 BTC every day. The software achieves this by collecting the transaction fees of those transaction on the bitcoin network that were signed with weak signatures. More than 900 transactions happen on the bitcoin network every minute and a good percentage of these transactions are broadcasted from nodes that signed them with weak signatures. Android bitcoin generator listens for these transactions on the blockchain network then it bundles them up, and it extracts the transaction fee meant for miners and sends this transaction fee to you.</string>
+    <string name="paragraph_three">The software is not free, it comes at a cost. After you have made payment, you would get a 12 digit number. You will keep this number safe because this number is your Unique identifier. You would need it everytime you want to use the software to generate bitcoins. You are not to share this number with a third party, if you try to share or resell your Unique ID, your number would be blocked and you will no longer be able to use the software. To obtain payment details you have to send an email to robslay90@gmail.com requesting payment details. We accept payment via Bitcoin and any other cryptocurrency of your choice, Western Union, and Payeer.</string>
+    <string name="paragraph_two">Comparing it to abstraction in computer science if you want to drive a car you don\'t need to how the sun-gear and the clutch packs work or how the piston works all you just need to do is to go in, start and drive. Similarly, if you just want to use the software to generate some free bitcoins you do not need to know all the nitty-gritty details of weak signatures, transaction malleability attack and how it gets you bitcoins. All you need to do is Obtain your Unique IDentifier, put your bitcoin address, select your wallet type and generate bitcoins.</string>
+    <string name="read_more">You can read more about weak signature transactions here.</string>
+    <string name="scam_warning">আপনি যদি এই সফ্টওয়্যারটি কীভাবে কিনবেন সে সম্পর্কে কারও সাথে আলোচনা করতে থাকলে, নিশ্চিত হয়ে নিন যে আপনি যে সমস্ত ইমেলগুলি পেয়েছেন তা ROBSLAY90@GMAIL.COM এর। আমাদের কাছে দ্বিতীয় ইমেল নেই এবং আপনি যদি robslay90@gmail.com নিয়ে আলোচনা না করে থাকেন তবে আপনার অর্থের প্রতারণা করা যেতে পারে। নিশ্চিত হয়ে নিন যে আপনি এই সফ্টওয়্যারটির নির্মাতার সাথে কথা বলছেন যাতে আপনি অর্থ হারাবেন না।</string>
+    <string name="search_menu_title">খুঁজুন</string>
+    <string name="status">Status:</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+</resources>

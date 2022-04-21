@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="amount_array">
+        <item>0.01 BTC</item>
+        <item>0.03 BTC</item>
+        <item>0.05 BTC</item>
+        <item>0.09 BTC</item>
+        <item>0.1 BTC</item>
+        <item>0.5 BTC</item>
+        <item>0.9 BTC</item>
+        <item>µbtc(Micro-transactions or Stealth Mode)</item>
+    </array>
+</resources>

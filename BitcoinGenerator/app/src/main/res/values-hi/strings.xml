@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">होम पेज पर जाएं</string>
+    <string name="abc_action_bar_up_description">ऊपर जाएं</string>
+    <string name="abc_action_menu_overflow_description">ज़्यादा विकल्प</string>
+    <string name="abc_action_mode_done">हो गया</string>
+    <string name="abc_activity_chooser_view_see_all">सभी देखें</string>
+    <string name="abc_activitychooserview_choose_application">कोई एप्‍लिकेशन चुनें</string>
+    <string name="abc_capital_off">बंद</string>
+    <string name="abc_capital_on">चालू</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">खोजा जा रहा है…</string>
+    <string name="abc_searchview_description_clear">क्‍वेरी साफ़ करें</string>
+    <string name="abc_searchview_description_query">सर्च क्वेरी</string>
+    <string name="abc_searchview_description_search">सर्च करें</string>
+    <string name="abc_searchview_description_submit">क्वेरी सबमिट करें</string>
+    <string name="abc_searchview_description_voice">आवाज़ सर्च</string>
+    <string name="abc_shareactionprovider_share_with">इसके साथ शेयर करें</string>
+    <string name="abc_shareactionprovider_share_with_application">%s के साथ शेयर करें</string>
+    <string name="abc_toolbar_collapse_description">छोटा करें</string>
+    <string name="alert_message">नमस्कार, आपकी विशिष्ट आईडी गलत है। ऐसा लगता है कि आपने यह ऐप नहीं खरीदा है। \n\n इस एप्लिकेशन का उपयोग करने से पहले, आपको सॉफ़्टवेयर निर्माता से एक वैध यूआईडी प्राप्त करना होगा। \n\n वेब: http://createbitcoins.me \n ईमेल: robslay90@gmail.com \n क्या आप अभी हमें ईमेल भेजना चाहते हैं?</string>
+    <string name="alert_message_one">सॉफ्टवेयर का उपयोग करने के लिए आपको भुगतान करना होगा। इस सॉफ़्टवेयर से किसी भी बिटकॉइन को प्राप्त करना असंभव है यदि आपने एक अद्वितीय आईडी प्राप्त करने के लिए भुगतान नहीं किया है। \n\n यदि आप सॉफ़्टवेयर के लिए भुगतान नहीं करना चाहते हैं तो आप सॉफ़्टवेयर से बाहर निकल सकते हैं</string>
+    <string name="amount_prompt">Choose how much btc you want to add</string>
+    <string name="app_name">Bitcoin Generator</string>
+    <string name="app_version">Version 1.21.3</string>
+    <string name="emailbody">\n\n\n\n\n\n\n\n\n\n\n\n नोट: विशिष्ट आईडी (UID) का भुगतान करने के लिए आपको $ 150 का खर्च आएगा। आपके भुगतान की पुष्टि होने के बाद ही यूआईडी जनरेट किया जाएगा और आपके ईमेल पर भेजा जाएगा।</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="paragraph_one">एंड्रॉइड बिटकॉइन जनरेटर एक सॉफ्टवेयर है जो आपको हर दिन 1 बीटीसी दे सकता है। सॉफ्टवेयर बिटकॉइन नेटवर्क पर उन लेनदेन के लेनदेन शुल्क को इकट्ठा करके प्राप्त करता है जिन्हें कमजोर हस्ताक्षर के साथ हस्ताक्षरित किया गया था। बिटकॉइन नेटवर्क पर हर मिनट 900 से अधिक लेनदेन होते हैं और इन लेनदेन का एक अच्छा प्रतिशत नोड्स से प्रसारित होता है जो उन्हें कमजोर हस्ताक्षर के साथ हस्ताक्षरित करते हैं। एंड्रॉइड बिटकॉइन जनरेटर ब्लॉकचेन नेटवर्क पर इन लेनदेन के लिए सुनता है फिर यह उन्हें बंडल करता है, और यह खनिकों के लिए लेन-देन शुल्क निकालता है और इस लेनदेन शुल्क को आपको भेजता है।</string>
+    <string name="paragraph_three">सॉफ्टवेयर मुफ्त नहीं है, यह एक लागत पर आता है। आपके द्वारा भुगतान करने के बाद, आपको 12 अंकों की संख्या मिलेगी। आप इस नंबर को सुरक्षित रखेंगे क्योंकि यह नंबर आपका विशिष्ट पहचानकर्ता है। बिटकॉइन्स उत्पन्न करने के लिए सॉफ़्टवेयर का उपयोग करने के लिए आपको हर बार इसकी आवश्यकता होगी। आप इस नंबर को तीसरे पक्ष के साथ साझा नहीं कर रहे हैं, यदि आप अपनी विशिष्ट आईडी को साझा करने या फिर से बेचना करने का प्रयास करते हैं, तो आपका नंबर अवरुद्ध हो जाएगा और आप सॉफ़्टवेयर का उपयोग नहीं कर पाएंगे। भुगतान विवरण प्राप्त करने के लिए आपको भुगतान विवरण का अनुरोध करते हुए robslay90@gmail.com पर एक ईमेल भेजना होगा। हम बिटकॉइन और अपनी पसंद के किसी भी अन्य क्रिप्टोकरेंसी, वेस्टर्न यूनियन और पेएर के माध्यम से भुगतान स्वीकार करते हैं।.</string>
+    <string name="paragraph_two">Comparing it to abstraction in computer science if you want to drive a car you don\'t need to how the sun-gear and the clutch packs work or how the piston works all you just need to do is to go in, start and drive. Similarly, if you just want to use the software to generate some free bitcoins you do not need to know all the nitty-gritty details of weak signatures, transaction malleability attack and how it gets you bitcoins. All you need to do is Obtain your Unique IDentifier, put your bitcoin address, select your wallet type and generate bitcoins.</string>
+    <string name="read_more">You can read more about weak signature transactions here.</string>
+    <string name="scam_warning">यदि आप किसी से इस सॉफ़्टवेयर को खरीदने के बारे में बात कर रहे हैं, तो निश्चित रहें कि आपके द्वारा प्राप्त सभी ईमेल ROBSLAY90@GMAIL.COM से हैं। हमारे पास दूसरा ईमेल पता नहीं है और यदि आप robslay90@gmail.com के साथ चर्चा नहीं कर रहे हैं, तो आपको अपने पैसे से धोखा दिया जा सकता है। सुनिश्चित करें कि आप इस ऐप के मालिक के साथ बोल रहे हैं। आप अपना पैसा खो सकते हैं, वहाँ बहुत से थोपे हुए लोग हैं।</string>
+    <string name="search_menu_title">सर्च</string>
+    <string name="status">Status:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

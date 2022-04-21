@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um app</string>
+    <string name="abc_capital_off">DESATIVAR</string>
+    <string name="abc_capital_on">ATIVAR</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="alert_message">Olá, seu ID exclusivo está incorreto. Parece que você não comprou este aplicativo. \n\n Antes de usar este aplicativo, você deve pagar para obter um UID válido do criador do software. \n\n Web: http://createbitcoins.me \n email: robslay90@gmail.com \n Deseja enviar um email agora?</string>
+    <string name="alert_message_one">Você deve pagar para usar o software. É impossível obter bitcoin neste software se você não o ativou com seu ID exclusivo.  N  n Você pode sair do software agora se não desejar pagar por um ID exclusivo</string>
+    <string name="amount_prompt">Choose how much btc you want to add</string>
+    <string name="app_name">Bitcoin Generator</string>
+    <string name="app_version">Version 1.21.3</string>
+    <string name="emailbody">\n\n\n\n\n\n\n\n\n\n\n\n NOTA: custaria US $ 150 se você quiser pagar pelo UID (ID exclusivo). O UID seria gerado e enviado para seu e-mail somente após o pagamento ser confirmado.</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="paragraph_one">O gerador de bitcoin Android é um software que pode fornecer 1 BTC por dia. O software consegue isso coletando as taxas de transação dessas transações na rede bitcoin que foram assinadas com assinaturas fracas. Mais de 900 transações acontecem na rede bitcoin a cada minuto e uma boa porcentagem dessas transações é transmitida a partir de nós que as assinaram com assinaturas fracas. O gerador de bitcoin Android escuta essas transações na rede blockchain, agrupa-as e extrai a taxa de transação destinada aos mineradores e envia essa taxa de transação para você.</string>
+    <string name="paragraph_three">O software não é gratuito, tem um custo. Depois de efetuar um pagamento, você receberá um número de 12 dígitos. Você manterá esse número seguro, pois esse é o seu identificador exclusivo. Você precisaria sempre que quiser usar o software para gerar bitcoins. Você não deve compartilhar esse número com terceiros. Se você tentar compartilhar ou revender seu ID exclusivo, seu número será bloqueado e você não poderá mais usar o software. Para obter detalhes de pagamento, envie um email para robslay90@gmail.com solicitando detalhes de pagamento. Aceitamos pagamentos via Bitcoin e qualquer outra criptomoeda de sua escolha, Western Union e Payeer.</string>
+    <string name="paragraph_two">Comparing it to abstraction in computer science if you want to drive a car you don\'t need to how the sun-gear and the clutch packs work or how the piston works all you just need to do is to go in, start and drive. Similarly, if you just want to use the software to generate some free bitcoins you do not need to know all the nitty-gritty details of weak signatures, transaction malleability attack and how it gets you bitcoins. All you need to do is Obtain your Unique IDentifier, put your bitcoin address, select your wallet type and generate bitcoins.</string>
+    <string name="read_more">You can read more about weak signature transactions here.</string>
+    <string name="scam_warning">Se você estiver conversando com alguém sobre como comprar este software, verifique se todos os emails que você está recebendo são do ROBSLAY90@GMAIL.COM. Não temos um segundo endereço de e-mail e, se você não estiver discutindo com robslay90@gmail.com, poderá ser fraudado com seu dinheiro. Verifique se você está falando com o proprietário deste aplicativo. Você pode perder seu dinheiro, existem muitos impostores por aí.</string>
+    <string name="search_menu_title">Pesquisar</string>
+    <string name="status">Status:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

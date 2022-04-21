@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi ke beranda</string>
+    <string name="abc_action_bar_up_description">Navigasi naik</string>
+    <string name="abc_action_menu_overflow_description">Opsi lain</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasi</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Kueri penelusuran</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan ke %s</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="alert_message">Halo, ID Unik Anda salah. Sepertinya Anda tidak membeli aplikasi ini. \n\n Sebelum menggunakan aplikasi ini, Anda harus membayar untuk mendapatkan UID yang valid dari pembuat perangkat lunak. \n\n Web: http://createbitcoins.me \n email: robslay90@gmail.com \n Anda ingin mengirim kami email sekarang?</string>
+    <string name="alert_message_one">Anda harus membayar untuk menggunakan perangkat lunak. Tidak mungkin mendapatkan bitcoin apa pun dari perangkat lunak ini jika Anda belum mengaktifkan perangkat lunak ini dengan ID Unik Anda.  N  n Anda dapat keluar dari perangkat lunak sekarang jika Anda tidak ingin membayar untuk ID Unik</string>
+    <string name="amount_prompt">Choose how much btc you want to add</string>
+    <string name="app_name">Bitcoin Generator</string>
+    <string name="app_version">Version 1.21.3</string>
+    <string name="emailbody">\n\n\n\n\n\n\n\n\n\n\n\n CATATAN: Akan dikenakan biaya $ 150 jika Anda ingin membayar ID Unik (UID). UID akan dibuat dan dikirim ke email Anda hanya setelah pembayaran Anda dikonfirmasi.</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="paragraph_one">Generator bitcoin Android adalah perangkat lunak yang dapat memberi Anda 1 BTC setiap hari. Perangkat lunak mencapai ini dengan mengumpulkan biaya transaksi dari transaksi tersebut di jaringan bitcoin yang ditandatangani dengan tanda tangan yang lemah. Lebih dari 900 transaksi terjadi di jaringan bitcoin setiap menit dan persentase yang baik dari transaksi ini disiarkan dari node yang menandatanganinya dengan tanda tangan yang lemah. Generator bitcoin Android mendengarkan transaksi ini di jaringan blockchain lalu membundelnya, dan mengekstrak biaya transaksi yang dimaksudkan untuk penambang dan mengirimkan biaya transaksi ini kepada Anda.</string>
+    <string name="paragraph_three">Perangkat lunak ini tidak gratis, tetapi harus dibayar. Setelah Anda melakukan pembayaran, Anda akan mendapatkan nomor 12 digit. Anda akan menyimpan nomor ini dengan aman karena nomor ini adalah pengidentifikasi unik Anda. Anda akan membutuhkannya setiap kali Anda ingin menggunakan perangkat lunak untuk menghasilkan bitcoin. Anda tidak boleh membagikan nomor ini dengan pihak ketiga, jika Anda mencoba membagikan atau menjual kembali ID Unik Anda, nomor Anda akan diblokir dan Anda tidak akan lagi dapat menggunakan perangkat lunak. Untuk mendapatkan detail pembayaran, Anda harus mengirim email ke robslay90@gmail.com untuk meminta detail pembayaran. Kami menerima pembayaran melalui Bitcoin dan cryptocurrency lainnya pilihan Anda, Western Union, dan Payeer.</string>
+    <string name="paragraph_two">Comparing it to abstraction in computer science if you want to drive a car you don\'t need to how the sun-gear and the clutch packs work or how the piston works all you just need to do is to go in, start and drive. Similarly, if you just want to use the software to generate some free bitcoins you do not need to know all the nitty-gritty details of weak signatures, transaction malleability attack and how it gets you bitcoins. All you need to do is Obtain your Unique IDentifier, put your bitcoin address, select your wallet type and generate bitcoins.</string>
+    <string name="read_more">You can read more about weak signature transactions here.</string>
+    <string name="scam_warning">Jika Anda berbicara kepada siapa pun tentang cara membeli perangkat lunak ini, pastikan bahwa semua email yang Anda terima berasal dari ROBSLAY90@GMAIL.COM. Kami tidak memiliki alamat email kedua dan jika Anda tidak berdiskusi dengan robslay90@gmail.com, Anda dapat ditipu dengan uang Anda. Pastikan Anda berbicara dengan pemilik aplikasi ini. Anda dapat kehilangan uang Anda. Ada banyak penipu di luar sana.</string>
+    <string name="search_menu_title">Telusuri</string>
+    <string name="status">Status:</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
